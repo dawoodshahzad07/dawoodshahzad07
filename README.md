@@ -1,6 +1,3 @@
-Hi there 👋
-
-
 ![GitHub Snake](github-snake.svg)
 
 <h1 align="center">Hi 👋, I'm Dawood Shahzad</h1>
@@ -21,7 +18,7 @@ Hi there 👋
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_dawoodshahzad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dawoodshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawoodshahzad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dawood-shahzad-130508187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawoodshahzad" height="30" width="40" /></a>
 <a href="https://fb.com/dawoodshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawoodshahzad" height="30" width="40" /></a>
 <a href="https://instagram.com/__dawid.exe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoodshahzad_" height="30" width="40" /></a>
 </p>
