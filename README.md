@@ -2,7 +2,7 @@
 
 **dawoodshahzad07/dawoodshahzad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-!(images/.jpg)
+!(github-snake.svg)
 
 Here are some ideas to get you started:
 
