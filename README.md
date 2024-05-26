@@ -12,20 +12,20 @@ Hi there 👋
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawoodshahzad07" alt="dawoodshahzad07" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_dawoodshahzad" target="blank"><img src="https://img.shields.io/twitter/follow/i_dawoodshahzad?logo=twitter&style=for-the-badge" alt="i_dawoodshahzad" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently Focusing on **Backend**
 
-- 💬 Ask me about **Alexa ,Dialog flow, React, JavaScript, Nodejs**
+- 💬 Ask me about **React, JavaScript, Nodejs**
 
-- 📫 How to reach me **thisdawood@gmail.com**
+- 📫 How to reach me **princedawoodedwardawan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/i_dawoodshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_dawoodshahzad" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_dawoodshahzad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dawoodshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawoodshahzad" height="30" width="40" /></a>
 <a href="https://fb.com/dawoodshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawoodshahzad" height="30" width="40" /></a>
-<a href="https://instagram.com/dawoodshahzad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoodshahzad_" height="30" width="40" /></a>
+<a href="https://instagram.com/__dawid.exe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoodshahzad_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
