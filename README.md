@@ -1,6 +1,6 @@
 ![GitHub Snake](github-snake.svg)
 
-<h1 align="center">Hi 👋, I'm Dawood Shahzad</h1>
+<h1 align="center">Salam 👋, I'm Dawood Shahzad</h1>
 <h3 align="center">A passionate Machine Learning Engineer and Data Scientist from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodshahzad07&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodshahzad07" /> </p>
