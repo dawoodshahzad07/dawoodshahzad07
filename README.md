@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Focusing on **Computer Vision**
 
-- 💬 Ask me about **YOLO,CNN and ANN,AWS**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **princedawoodedwardawan@gmail.com**
 
