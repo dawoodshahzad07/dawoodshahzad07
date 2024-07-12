@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Focusing on **deep learning**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **dawoodshahzad0707@gmail.com**
 
@@ -23,7 +23,8 @@
 <a href="https://instagram.com/__dawid.exe__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoodshahzad_" height="30" width="40" /></a>
 </p>
 
-
+<h1 align="center">"Talk is cheap. Show me the code."</h1>
+<h3 align="center">- Linus Torvalds</h3>
 
 
 
