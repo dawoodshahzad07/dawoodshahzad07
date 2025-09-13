@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently Focusing on **Generative AI**
+- 🌱 I’m currently Focusing on **Automations**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Chatbots, Agentic AI, Backend**
 
 - 📫 How to reach me **dawoodshahzad0707@gmail.com**
 
