@@ -2,7 +2,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif" width="30"/> Hi 👋, I'm Dawood Shahzad
 
-<h3>A passionate Machine Learning Engineer</h3>
+<h3>A passionate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodshahzad07&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodshahzad07" /> </p>
 
