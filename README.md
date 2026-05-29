@@ -20,8 +20,8 @@
 <a href="https://instagram.com/__dawid.py__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dawoodshahzad_" height="30" width="40" /></a>
 </p>
 
-<h4 align="center">"Checkout my company account:"</h4>
-<h5 align="center"><a href="https://github.com/dawoodkodensoft">Dawood Kodensoft</h5>
+<h4 align="center">Checkout my company account:</h4>
+<h5 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dawoodkodensoft">Dawood Kodensoft</h5>
 
 
 
