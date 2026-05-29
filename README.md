@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawoodshahzad07&label=Profile%20views&color=0e75b6&style=flat" alt="dawoodshahzad07" /> </p>
 
-- 🌱 I’m currently Focusing on **Automations and Agentic AI**
+- 🌱 I’m currently Focusing on ** Voice Agents and Agentic AI**
 
-- 💬 Ask me about **Chatbots, Agentic AI, Backend**
+- 💬 Ask me about **Voice Agents, Automations, Agentic AI and Backend**
 
 - 📫 How to reach me **dawoodshahzad0707@gmail.com**
 
