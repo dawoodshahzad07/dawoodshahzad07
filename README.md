@@ -21,4 +21,4 @@
 </p>
 
 <h4 align="center">Checkout my company account:</h4>
-<h5 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dawoodkodensoft">Dawood Kodensoft</a></h5>
+<h2 align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dawoodkodensoft">Dawood Kodensoft</a></h2>
